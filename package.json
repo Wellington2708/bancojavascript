@@ -1,0 +1,23 @@
+{
+  "name": "bancojavascript",
+  "version": "1.0.0",
+  "description": "projeto para treinar javascript e seus módulos",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wellington2708/bancojavascript.git"
+  },
+  "author": "Wellington",
+  "license": "ISC",
+
+  "bugs": {
+    "url": "https://github.com/Wellington2708/bancojavascript/issues"
+  },
+  "homepage": "https://github.com/Wellington2708/bancojavascript#readme",
+
+  "type": "module"
+  
+}
